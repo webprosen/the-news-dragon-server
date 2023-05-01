@@ -257,7 +257,7 @@
       "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
       "others_info": {
         "is_todays_pick": false,
-        "is_trending": false
+        "is_trending": true
       },
       "category_id": "7",
       "rating": { "number": 4.5, "badge": "Excellent" },
